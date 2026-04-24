@@ -1,2 +1,7 @@
-# demo-dr-daniel-zitta-odontologo
-Demo web para DR DANIEL ZITTA - ODONTOLOGO — diseñada por eterlab.
+# DR DANIEL ZITTA - ODONTOLOGO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
